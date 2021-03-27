@@ -1,7 +1,7 @@
 ### Hi there, I'm Sudhanshu kesarwani  - aka [sudhanshukes65] 👋
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student , coder , Developer, and Youtuber!!
 
 - 🌱 I’m currently learning coding ios and android development infact everything 🤣
 - 👯 I’m planning to creat some useful content on youtube 
