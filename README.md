@@ -3,7 +3,7 @@
 
 ## I'm a Student , coder , Developer, and Youtuber!!
 
-- 🌱 I’m currently learning coding ios and android development infact everything 🤣
+- 🌱 I’m currently learning coding, ios and android development infact everything 🤣
 - 👯 I’m planning to creat some useful content on youtube 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play guitar / drums
