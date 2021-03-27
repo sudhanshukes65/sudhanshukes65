@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Sudhanshu kesarwani   👋
+<br />
 
-<!--
-**sudhanshukes65/sudhanshukes65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Coder, Developer, and Youtuber!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to travel and play guitar / drums
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="sudhanshukes65 | Twitter" width="22px" src="https://twitter.com/sudhanshukes65" />][twitter]
+[<img align="left" alt="sudhanshukes65 | LinkedIn" width="22px" src="https://www.linkedin.com/in/sudhanshukesarwani/" />][linkedin]
+[<img align="left" alt="sudhanshukes65 | Instagram" width="22px" src="https://www.instagram.com/sudhanshu_kes/" />][instagram]
+
+<br />
+
