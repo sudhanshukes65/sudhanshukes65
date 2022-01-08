@@ -3,9 +3,9 @@
 
 ## I'm a Student , coder , Developer, and Youtuber!!
 
-- 🌱 I’m currently learning coding, ios, android and web development infact everything 🤣
+- 🌱 I’m currently learning coding and web development.
 - 👯 I’m planning to creat some useful content on youtube 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play guitar / drums
 
 
